@@ -1,4 +1,7 @@
 Rencana yang akan dibuat untuk Web Portofolio
 -Menambahkan Gambar Project
--Menambahkan Gambar Desain
+ * Hasil desain Photoshop (Desain Perpus, Prodi dan Pribadi)
+-Menambahkan Video Creative
+ * Hasil Video Konten
 -Membuat Web lebih Responsive
+ * Ukuran yang Otomatis 
