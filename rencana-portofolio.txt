@@ -3,9 +3,12 @@ Rencana yang akan dibuat untuk Web Portofolio
  * Hasil desain Photoshop (Desain Perpus, Prodi dan Pribadi)
 -Menambahkan Video Creative
  * Hasil Video Konten
+ * Short instagram
 -Membuat Web lebih Responsive
  * Ukuran yang Otomatis 
  * Scroll Button Otomatis
 -Membuat Website Outstanding
  * Memberikan Efek 3D
- * Memberi Warna Gelap
+ * meberikan warna yang elegan
+ * Desain yang Mempunyai Ciri khas
+
